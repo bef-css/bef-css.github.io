@@ -169,7 +169,7 @@ a {
     color: var(--accent2) !important;
 }
 
-.chatMsg [style="color:#eb5656"] {
+.chatMsg span[style="color:#eb5656"] {
     color: var(--accent2)!important
 }
 

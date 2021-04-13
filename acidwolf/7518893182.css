@@ -165,12 +165,12 @@ a {
     color: var(--text-color) !important;
 }
 
-.chatMsg[style="color:#fc03ec"] {
+.chatMsg span[style="color:#eb5656"] {
     color: var(--accent2) !important;
 }
 
-.chatMsg[style="color:#eb5656"] {
-    color: var(--accent2)!important
+.chatMsg[style="color:#fc03ec"] {
+    color: var(--accent2) !important;
 }
 
 #chatInput {

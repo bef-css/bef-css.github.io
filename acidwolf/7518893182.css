@@ -169,6 +169,10 @@ a {
     color: var(--accent2) !important;
 }
 
+.chatMsg [style="color:#eb5656"] {
+    color: var(--accent2)!important
+}
+
 #chatInput {
     color: #fff;
     background-color: var(--accent2);

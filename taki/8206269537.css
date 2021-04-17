@@ -2075,3 +2075,9 @@ input:checked+.slider2::after {
 .matchVoteThumb:hover {
     filter: grayscale(0%)
 }
+
+/* spectate */
+
+.specContrI span[style="color:#fbc02d;float:right"] {
+    color: var(--accent1)!important
+}
